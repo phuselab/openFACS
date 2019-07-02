@@ -5,7 +5,7 @@
 ***Vittorio Cuculo, Alessandro D'Amelio***  
 [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 
-**Paper** *Cuculo V, D’Amelio A. OpenFACS : an open source FACS-based 3D face animation system. In International Conference on Image and Graphics (pp. xx-xx). Springer, Cham.*  
+**Paper** *Cuculo V., D’Amelio A. OpenFACS : an open source FACS-based 3D face animation system. In International Conference on Image and Graphics (pp. xx-xx). Springer, Cham.*  
 **Preprint** [https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system](https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system)
 
 ## Description 
@@ -57,7 +57,14 @@ Folder `source/` does contain the Unreal Engine 4 project to re-build the applic
 
 If you use this code or data, please cite the paper:
 ```
-Coming soon...
+@inproceedings{cuculo2019openfacs,
+  title={OpenFACS : an open source FACS-based 3D face animation system},
+  author={Cuculo, Vittorio and D'Amelio, Alessandro},
+  booktitle={International Conference on Image and Graphics},
+  pages={xx-xx},
+  year={2019},
+  organization={Springer}
+}
 ```
 
 ## License
