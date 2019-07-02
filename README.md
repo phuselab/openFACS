@@ -9,7 +9,7 @@
 **Preprint** [https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system](https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system)
 
 ## Description 
-openFACS is an open source FACS-based 3D face animation system. OpenFACS is a software that allows the simulation of realistic facial expressions through the manipulation of specific action units as defined in the Facial Action Coding System. OpenFACS has been developed together with an API which is suitable to generate real-time dynamic facial expressions for a three-dimensional character. It can be easily embedded in existing systems without any prior experience in computer graphics.
+OpenFACS is an open source FACS-based 3D face animation system. OpenFACS is a software that allows the simulation of realistic facial expressions through the manipulation of specific action units as defined in the Facial Action Coding System. OpenFACS has been developed together with an API which is suitable to generate real-time dynamic facial expressions for a three-dimensional character. It can be easily embedded in existing systems without any prior experience in computer graphics.
 
 ## Video
 [![openFACS model](https://img.youtube.com/vi/fzMYU-9qYaw/0.jpg)](https://www.youtube.com/watch?v=fzMYU-9qYaw "openFACS model")
