@@ -6,7 +6,7 @@
 [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 
 **Paper** *Cuculo V, D’Amelio A. OpenFACS : an open source FACS-based 3D face animation system. In International Conference on Image and Graphics (pp. xx-xx). Springer, Cham.*  
-[link available soon]  
+**Preprint** [https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system](https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system)
 
 ## Description 
 openFACS is an open source FACS-based 3D face animation system. OpenFACS is a software that allows the simulation of realistic facial expressions through the manipulation of specific action units as defined in the Facial Action Coding System. OpenFACS has been developed together with an API which is suitable to generate real-time dynamic facial expressions for a three-dimensional character. It can be easily embedded in existing systems without any prior experience in computer graphics.
