@@ -73,6 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Quadro P6000 GPU used for this research.
+We gratefully acknowledge the support of Stefano Palma for the the development of the graphical part and NVIDIA Corporation with the donation of the Quadro P6000 GPU used for this research.
 
 
