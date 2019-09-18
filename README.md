@@ -19,21 +19,21 @@ OpenFACS is an open source FACS-based 3D face animation system. OpenFACS is a so
 ### Linux
 To launch the openFACS application:
 
-1. Download the binary file:
+1. Download the tar file:
 ```
-wget https://github.com/phuselab/openFACS/releases/download/1.0/ActionUnitsFace-Linux-Shipping
+wget https://github.com/phuselab/openFACS/releases/download/1.0.1/openFACS_Linux.tar.gz
 ```
 2. Untar the package
 ```
-tar xvf 
+tar xvf openFACS_Linux.tar.gz
 ```
 3. Make the script executable:
 ```
-chmod +x ActionUnitsFace-Linux-Shipping
+chmod +x ActionUnitsFace.sh
 ```
 3. Run it:
 ```
-./ActionUnitsFace-Linux-Shipping.sh
+./ActionUnitsFace.sh
 ```
 4. This will open an UDP server on localhost, port 5000.
 
