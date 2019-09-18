@@ -23,13 +23,17 @@ To launch the openFACS application:
 ```
 wget https://github.com/phuselab/openFACS/releases/download/1.0/ActionUnitsFace-Linux-Shipping
 ```
-2. Make it executable:
+2. Untar the package
+```
+tar xvf 
+```
+3. Make the script executable:
 ```
 chmod +x ActionUnitsFace-Linux-Shipping
 ```
 3. Run it:
 ```
-./ActionUnitsFace-Linux-Shipping
+./ActionUnitsFace-Linux-Shipping.sh
 ```
 4. This will open an UDP server on localhost, port 5000.
 
@@ -49,6 +53,15 @@ As example, `demo/sadness.py`:
     from openFACS import sendAUS
     AU = [5,0,5,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0]
     sendAUS(AU,0.05)
+
+## Hotkeys
+:one: - Turn off all livingness effects  
+:two: - Turn on all livingness effects  
+:three: - Toggle Blinking  
+:four: - Toggle Neck movements  
+:five: - Toggle Mouth movements  
+:six: - Toggle Eyes movements  
+F11 - Toggle Fullscreen  
 
 ## Build
 Folder `source/` does contain the Unreal Engine 4 project to re-build the application.
