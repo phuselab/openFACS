@@ -5,8 +5,9 @@
 ***Vittorio Cuculo, Alessandro D'Amelio***  
 [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 
-**Paper** *Cuculo V., D’Amelio A. OpenFACS : an open source FACS-based 3D face animation system. In International Conference on Image and Graphics (pp. xx-xx). Springer, Cham.*  
-**Preprint** [on ResearchGate](https://www.researchgate.net/publication/334170560_OpenFACS_an_open_source_FACS-based_3D_face_animation_system)
+**Paper** *Cuculo V., D’Amelio A. (2019) OpenFACS: An Open Source FACS-Based 3D Face Animation System. In: Zhao Y., Barnes N., Chen B., Westermann R., Kong X., Lin C. (eds) Image and Graphics. ICIG 2019. Lecture Notes in Computer Science, vol 11902. Springer, Cham*  
+
+https://rd.springer.com/chapter/10.1007/978-3-030-34110-7_20
 
 ## Description 
 OpenFACS is an open source FACS-based 3D face animation system. OpenFACS is a software that allows the simulation of realistic facial expressions through the manipulation of specific action units as defined in the Facial Action Coding System. OpenFACS has been developed together with an API which is suitable to generate real-time dynamic facial expressions for a three-dimensional character. It can be easily embedded in existing systems without any prior experience in computer graphics.
@@ -69,14 +70,17 @@ Folder `source/` does contain the Unreal Engine 4 project to re-build the applic
 ## Reference
 
 If you use this code or data, please cite the paper:
+
 ```
 @inproceedings{cuculo2019openfacs,
-  title={OpenFACS : an open source FACS-based 3D face animation system},
-  author={Cuculo, Vittorio and D'Amelio, Alessandro},
-  booktitle={International Conference on Image and Graphics},
-  pages={xx-xx},
-  year={2019},
-  organization={Springer}
+    author="Cuculo, Vittorio and D'Amelio, Alessandro",
+    editor="Zhao, Yao and Barnes, Nick and Chen, Baoquan and Westermann, R{\"u}diger and Kong, Xiangwei and Lin, Chunyu",
+    title="OpenFACS: An Open Source FACS-Based 3D Face Animation System",
+    booktitle="Image and Graphics",
+    year="2019",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="232--242",
 }
 ```
 
