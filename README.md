@@ -5,8 +5,7 @@
 ***Vittorio Cuculo, Alessandro D'Amelio***  
 [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 
-**Paper** *Cuculo V., D’Amelio A. (2019) OpenFACS: An Open Source FACS-Based 3D Face Animation System. In: Zhao Y., Barnes N., Chen B., Westermann R., Kong X., Lin C. (eds) Image and Graphics. ICIG 2019. Lecture Notes in Computer Science, vol 11902. Springer, Cham*  
-
+**Paper** Cuculo, V., & D’Amelio, A. (2019, August). OpenFACS: an open source FACS-based 3D face animation system. In *International Conference on Image and Graphics* (pp. 232-242). Springer, Cham.  
 https://rd.springer.com/chapter/10.1007/978-3-030-34110-7_20
 
 ## Description 
