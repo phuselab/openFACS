@@ -54,6 +54,10 @@ As example, `demo/sadness.py`:
     AU = [5,0,5,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0]
     sendAUS(AU,0.05)
 
+Alternatively, the folder `python/` also contains a [script](python/gui.py) that launches a simple GUI
+that can be used to interact intuitively with the animation.
+![GUI Demonstration](img/gui_demonstration.jpg "GUI Demonstration")
+
 ## Hotkeys
 :one: - Turn off all livingness effects  
 :two: - Turn on all livingness effects  
