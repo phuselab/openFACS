@@ -15,7 +15,7 @@ OpenFACS is an open source FACS-based 3D face animation system. OpenFACS is a so
 [![openFACS model](https://img.youtube.com/vi/fzMYU-9qYaw/0.jpg)](https://www.youtube.com/watch?v=fzMYU-9qYaw "openFACS model")
 
 ## Executing the demo
-
+ 
 ### Linux
 To launch the openFACS application:
 
